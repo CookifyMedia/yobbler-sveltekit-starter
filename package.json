@@ -33,6 +33,10 @@
 	},
 	"type": "module",
 	"dependencies": {
-		"daisyui": "^2.38.0"
+		"daisyui": "^2.38.0",
+		"object-to-formdata": "^4.4.2",
+		"pocketbase": "^0.8.0-rc1",
+		"zod": "^3.19.1",
+		"zod-form-data": "^1.2.3"
 	}
 }

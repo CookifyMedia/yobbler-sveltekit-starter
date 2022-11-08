@@ -22,6 +22,6 @@
 	
 	<Footer />
 
-	<AppDrawer bind:openAppMenu />
+	<AppDrawer bind:openAppMenu data={data} />
 	<MenuDrawer bind:open />
 </div>

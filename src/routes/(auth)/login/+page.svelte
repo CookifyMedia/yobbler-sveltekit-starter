@@ -18,7 +18,7 @@
       <img src="/images/logos/yobbler-logo-bl.svg" alt="Yobbler logo" class="h-8 object-cover ">
     {/if} 
   </a>
-    <form action="" class="form-control w-full max-w-lg mx-auto">
+    <form method="POST" action="?/login" class="form-control w-full max-w-lg mx-auto">
       
       <div class="flex flex-col space-y-2">
         <h3 class="text-center text-3xl">Welcome, let´s login to Yobbler. </h3>
