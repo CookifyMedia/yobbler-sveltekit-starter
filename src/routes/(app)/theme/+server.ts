@@ -22,7 +22,7 @@ export const POST: RequestHandler = async ({request, cookies}) => {
 		path: '/',
 		maxAge: TEN_YEARS_IN_SECONDS,
 	})
-
+	
 	return json(theme)
 }
 
